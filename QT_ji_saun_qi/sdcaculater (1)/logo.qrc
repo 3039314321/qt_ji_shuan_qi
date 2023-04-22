@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icoa.ico</file>
+        <file>sdaulogo.ico</file>
+        <file>logo2.ico</file>
+        <file>sdau.jpg</file>
+    </qresource>
+</RCC>
